@@ -1,0 +1,23 @@
+  body {
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: lightgrey;
+    border-width: thick;
+    border-radius: 3px;
+    width: 10%;
+  }
+
+  h1 {
+    color: #66BFBF
+  }
+
+  h3 {
+    color: #b366ff;
+  }
